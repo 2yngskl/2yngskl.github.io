@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Y. S. Lee** | Young-suk Lee, PhD</title>
+    <link>https://2yngskl.github.io/authors/y.-s.-lee/</link>
+      <atom:link href="https://2yngskl.github.io/authors/y.-s.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Y. S. Lee**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>**Y. S. Lee**</title>
+      <link>https://2yngskl.github.io/authors/y.-s.-lee/</link>
+    </image>
+    
+    <item>
+      <title>A Computational Framework for Genome-wide Characterization of the Human Disease Landscape</title>
+      <link>https://2yngskl.github.io/publication/rn-44/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Basis for the Single-Nucleotide Precision of Primary microRNA Processing</title>
+      <link>https://2yngskl.github.io/publication/rn-49/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of an individual functional genomics experiment guided by massive public data</title>
+      <link>https://2yngskl.github.io/publication/rn-45/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFNgamma-Dependent Tissue-Immune Homeostasis Is Co-opted in the Tumor Microenvironment</title>
+      <link>https://2yngskl.github.io/publication/rn-52/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue-aware data integration approach for the inference of pathway interactions in metazoan organisms</title>
+      <link>https://2yngskl.github.io/publication/rn-46/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining cell-type specificity at the transcriptional level in human disease</title>
+      <link>https://2yngskl.github.io/publication/rn-48/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology-aware classification of tissue and cell-type signals in gene expression profiles across platforms and technologies</title>
+      <link>https://2yngskl.github.io/publication/rn-47/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-47/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

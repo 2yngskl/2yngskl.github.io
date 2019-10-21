@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Krishnan | Young-suk Lee, PhD</title>
+    <link>https://2yngskl.github.io/authors/a.-krishnan/</link>
+      <atom:link href="https://2yngskl.github.io/authors/a.-krishnan/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Krishnan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>A. Krishnan</title>
+      <link>https://2yngskl.github.io/authors/a.-krishnan/</link>
+    </image>
+    
+    <item>
+      <title>A Computational Framework for Genome-wide Characterization of the Human Disease Landscape</title>
+      <link>https://2yngskl.github.io/publication/rn-44/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue-aware data integration approach for the inference of pathway interactions in metazoan organisms</title>
+      <link>https://2yngskl.github.io/publication/rn-46/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology-aware classification of tissue and cell-type signals in gene expression profiles across platforms and technologies</title>
+      <link>https://2yngskl.github.io/publication/rn-47/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-47/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

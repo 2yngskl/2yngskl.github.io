@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Song | Young-suk Lee, PhD</title>
+    <link>https://2yngskl.github.io/authors/j.-song/</link>
+      <atom:link href="https://2yngskl.github.io/authors/j.-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Young-suk Lee, PhD</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>J. Song</title>
+      <link>https://2yngskl.github.io/authors/j.-song/</link>
+    </image>
+    
+    <item>
+      <title>Viral hijacking of the TENT4-ZCCHC14 complex protects viral RNAs via mixed tailing.</title>
+      <link>https://2yngskl.github.io/working/under_review/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/under_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed tailing by TENT4A and TENT4B shields mRNA from rapid deadenylation</title>
+      <link>https://2yngskl.github.io/publication/rn-50/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-50/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
