@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Young-suk Lee, PhD</title>
+    <title>2 | Young-suk Lee</title>
     <link>https://2yngskl.github.io/publication_types/2/</link>
       <atom:link href="https://2yngskl.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://2yngskl.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>The SARS-CoV-2 RNA interactome.</title>
+      <link>https://2yngskl.github.io/working/under_review/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/under_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viral hijacking of the TENT4–ZCCHC14 complex protects viral RNAs via mixed tailing</title>
+      <link>https://2yngskl.github.io/publication/viral-mixed-tailing/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/viral-mixed-tailing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS1-Level Proteome Quantification Platform Allowing Maximally Increased Multiplexity for SILAC and In Vitro Chemical Labeling</title>
+      <link>https://2yngskl.github.io/publication/proteome-quant/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/proteome-quant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Computational Framework for Genome-wide Characterization of the Human Disease Landscape</title>
