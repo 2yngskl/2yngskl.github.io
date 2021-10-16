@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Verma | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/a.-verma/</link>
+      <atom:link href="https://2yngskl.github.io/authors/a.-verma/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Verma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>A. Verma</title>
+      <link>https://2yngskl.github.io/authors/a.-verma/</link>
+    </image>
+    
+    <item>
+      <title>Nonparametric Deconvolution Models</title>
+      <link>https://2yngskl.github.io/working/submitted/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/submitted/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

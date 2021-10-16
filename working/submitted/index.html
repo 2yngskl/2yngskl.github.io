@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Adenosine N6-methylation (m6A) is one of the most pervasive RNA modifications, and yet the physiological and pathological roles of m6A demethylation in embryogenesis and tissue homeostasis remains unclear. Here we report the m6A demethylase FTO (Fat Mass and Obesity associated) functions as a conserved regulator of motile ciliogenesis and ciliopathy by stabilizing FOXJ1 mRNA. Loss of Fto in mice produced strong asthma-like phenotypes upon allergen challenge owing to defective ciliated cells in the tracheal epithelium. Depletion of Fto in *Xenopus laevis* embryos also caused multiple embryonic ciliopathic phenotypes such as situs inversus and loss of multiciliated cells in the epidermis. Transcriptome analysis revealed a widespread downregulation of ciliary genes after Fto knockdown. We found that a single target, Foxj1, the master ciliary transcription factor, as the phenocritical target of the Fto-dependent m6A demethylation in motile ciliogenesis. Fto demethylates two m6A sites in the open reading frame of Foxj1 to stabilize the mRNA. In human bronchial epithelial cells, FTO depletion also led to FOXJ1 mRNA destabilization and a severe loss of ciliated cells with an increase of neighboring goblet cells, as in chronic inflammatory lung diseases such as asthma. Altogether, our results identify the FTO-FOXJ1 axis as a conserved key regulatory module in ciliogenesis and ciliopathy.">
+  <meta name="description" content="We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens&#39; votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://2yngskl.github.io/working/submitted/">
@@ -117,14 +117,14 @@
   
   <meta property="og:site_name" content="Young-suk Lee">
   <meta property="og:url" content="https://2yngskl.github.io/working/submitted/">
-  <meta property="og:title" content="N6-methyladenosine demethylase FTO orchestrates motile ciliogenesis by stabilizing FOXJ1 mRNA. | Young-suk Lee">
-  <meta property="og:description" content="Adenosine N6-methylation (m6A) is one of the most pervasive RNA modifications, and yet the physiological and pathological roles of m6A demethylation in embryogenesis and tissue homeostasis remains unclear. Here we report the m6A demethylase FTO (Fat Mass and Obesity associated) functions as a conserved regulator of motile ciliogenesis and ciliopathy by stabilizing FOXJ1 mRNA. Loss of Fto in mice produced strong asthma-like phenotypes upon allergen challenge owing to defective ciliated cells in the tracheal epithelium. Depletion of Fto in *Xenopus laevis* embryos also caused multiple embryonic ciliopathic phenotypes such as situs inversus and loss of multiciliated cells in the epidermis. Transcriptome analysis revealed a widespread downregulation of ciliary genes after Fto knockdown. We found that a single target, Foxj1, the master ciliary transcription factor, as the phenocritical target of the Fto-dependent m6A demethylation in motile ciliogenesis. Fto demethylates two m6A sites in the open reading frame of Foxj1 to stabilize the mRNA. In human bronchial epithelial cells, FTO depletion also led to FOXJ1 mRNA destabilization and a severe loss of ciliated cells with an increase of neighboring goblet cells, as in chronic inflammatory lung diseases such as asthma. Altogether, our results identify the FTO-FOXJ1 axis as a conserved key regulatory module in ciliogenesis and ciliopathy."><meta property="og:image" content="https://2yngskl.github.io/img/icon-192.png">
+  <meta property="og:title" content="Nonparametric Deconvolution Models | Young-suk Lee">
+  <meta property="og:description" content="We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens&#39; votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data."><meta property="og:image" content="https://2yngskl.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://2yngskl.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-04-07T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-03-17T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-04-07T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-03-17T00:00:00&#43;00:00">
   
 
   
@@ -143,7 +143,7 @@
 
 
 
-  <title>N6-methyladenosine demethylase FTO orchestrates motile ciliogenesis by stabilizing FOXJ1 mRNA. | Young-suk Lee</title>
+  <title>Nonparametric Deconvolution Models | Young-suk Lee</title>
 
 </head>
 
@@ -187,6 +187,11 @@
     
       <a class="navbar-brand" href="/">Young-suk Lee</a>
       
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
 
     
     <div class="collapse navbar-collapse" id="navbar">
@@ -194,6 +199,151 @@
       
       
       <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#team"><span>Team</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#working"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
         
 
       
@@ -241,7 +391,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>N6-methyladenosine demethylase FTO orchestrates motile ciliogenesis by stabilizing FOXJ1 mRNA.</h1>
+  <h1>Nonparametric Deconvolution Models</h1>
 
   
 
@@ -262,19 +412,13 @@
 
 
   <span>
-        H. Kim*
+        A. Chaney
     </span>, <span>
-        <strong>Y. S. Lee</strong>*
+        A. Verma
     </span>, <span>
-        S. M. Kim
+        <strong>Y. S. Lee</strong>
     </span>, <span>
-        H. Choi
-    </span>, <span>
-        J. W. Lee
-    </span>, <span>
-        T. D. Kim
-    </span>, <span>
-        V. N. Kim
+        B. Engelhardt
     </span>
 
   </div>
@@ -310,6 +454,55 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2003.07718" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+
+</div>
+
 
   
 </div>
@@ -320,7 +513,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Adenosine N6-methylation (m6A) is one of the most pervasive RNA modifications, and yet the physiological and pathological roles of m6A demethylation in embryogenesis and tissue homeostasis remains unclear. Here we report the m6A demethylase FTO (Fat Mass and Obesity associated) functions as a conserved regulator of motile ciliogenesis and ciliopathy by stabilizing FOXJ1 mRNA. Loss of Fto in mice produced strong asthma-like phenotypes upon allergen challenge owing to defective ciliated cells in the tracheal epithelium. Depletion of Fto in <em>Xenopus laevis</em> embryos also caused multiple embryonic ciliopathic phenotypes such as situs inversus and loss of multiciliated cells in the epidermis. Transcriptome analysis revealed a widespread downregulation of ciliary genes after Fto knockdown. We found that a single target, Foxj1, the master ciliary transcription factor, as the phenocritical target of the Fto-dependent m6A demethylation in motile ciliogenesis. Fto demethylates two m6A sites in the open reading frame of Foxj1 to stabilize the mRNA. In human bronchial epithelial cells, FTO depletion also led to FOXJ1 mRNA destabilization and a severe loss of ciliated cells with an increase of neighboring goblet cells, as in chronic inflammatory lung diseases such as asthma. Altogether, our results identify the FTO-FOXJ1 axis as a conserved key regulatory module in ciliogenesis and ciliopathy.</p>
+    <p class="pub-abstract">We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens&rsquo; votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data.</p>
     
 
     
@@ -360,6 +553,24 @@
 
 
 
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/a.-chaney/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
 
 
 

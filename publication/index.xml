@@ -5,12 +5,36 @@
     <link>https://2yngskl.github.io/publication/</link>
       <atom:link href="https://2yngskl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://2yngskl.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The SARS-CoV-2 RNA interactome</title>
+      <link>https://2yngskl.github.io/publication/21-sars2-interactome/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/21-sars2-interactome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA demethylation by FTO stabilizes the FOXJ1 mRNA for proper motile ciliogenesis</title>
+      <link>https://2yngskl.github.io/publication/21-fto-cilio/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/21-fto-cilio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noncanonical immune response to the inhibition of DNA methylation by Staufen1 via stabilization of endogenous retrovirus RNAs</title>
+      <link>https://2yngskl.github.io/publication/21-staufen1-dsrna/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/21-staufen1-dsrna/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Viral hijacking of the TENT4–ZCCHC14 complex protects viral RNAs via mixed tailing</title>

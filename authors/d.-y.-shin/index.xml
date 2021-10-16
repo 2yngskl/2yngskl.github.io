@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.-Y. Shin | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/d.-y.-shin/</link>
+      <atom:link href="https://2yngskl.github.io/authors/d.-y.-shin/index.xml" rel="self" type="application/rss+xml" />
+    <description>D.-Y. Shin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>D.-Y. Shin</title>
+      <link>https://2yngskl.github.io/authors/d.-y.-shin/</link>
+    </image>
+    
+    <item>
+      <title>Noncanonical immune response to the inhibition of DNA methylation by Staufen1 via stabilization of endogenous retrovirus RNAs</title>
+      <link>https://2yngskl.github.io/publication/21-staufen1-dsrna/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/21-staufen1-dsrna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

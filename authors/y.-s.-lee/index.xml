@@ -5,12 +5,36 @@
     <link>https://2yngskl.github.io/authors/y.-s.-lee/</link>
       <atom:link href="https://2yngskl.github.io/authors/y.-s.-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>**Y. S. Lee**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>**Y. S. Lee**</title>
       <link>https://2yngskl.github.io/authors/y.-s.-lee/</link>
     </image>
+    
+    <item>
+      <title>Crosstalk between Fat Mass and Obesity-related (FTO) and multiple WNT signaling pathways</title>
+      <link>https://2yngskl.github.io/working/under_review/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/under_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noncanonical immune response to the inhibition of DNA methylation by Staufen1 via stabilization of endogenous retrovirus RNAs</title>
+      <link>https://2yngskl.github.io/publication/21-staufen1-dsrna/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/21-staufen1-dsrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Deconvolution Models</title>
+      <link>https://2yngskl.github.io/working/submitted/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/submitted/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MS1-Level Proteome Quantification Platform Allowing Maximally Increased Multiplexity for SILAC and In Vitro Chemical Labeling</title>
