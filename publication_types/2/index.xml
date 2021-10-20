@@ -5,12 +5,28 @@
     <link>https://2yngskl.github.io/publication_types/2/</link>
       <atom:link href="https://2yngskl.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://2yngskl.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Near-optimal variant calling</title>
+      <link>https://2yngskl.github.io/working/recalibration/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/recalibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deadenylation kinetics at single-nucleotide resolution</title>
+      <link>https://2yngskl.github.io/working/kinetics/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/kinetics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The SARS-CoV-2 RNA interactome</title>

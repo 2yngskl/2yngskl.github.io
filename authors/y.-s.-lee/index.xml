@@ -5,12 +5,28 @@
     <link>https://2yngskl.github.io/authors/y.-s.-lee/</link>
       <atom:link href="https://2yngskl.github.io/authors/y.-s.-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>**Y. S. Lee**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>**Y. S. Lee**</title>
       <link>https://2yngskl.github.io/authors/y.-s.-lee/</link>
     </image>
+    
+    <item>
+      <title>Near-optimal variant calling</title>
+      <link>https://2yngskl.github.io/working/recalibration/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/recalibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deadenylation kinetics at single-nucleotide resolution</title>
+      <link>https://2yngskl.github.io/working/kinetics/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/kinetics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crosstalk between Fat Mass and Obesity-related (FTO) and multiple WNT signaling pathways</title>

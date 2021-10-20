@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Kim | Young-suk Lee</title>
-    <link>https://2yngskl.github.io/authors/s.-kim/</link>
-      <atom:link href="https://2yngskl.github.io/authors/s.-kim/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. Kim</description>
+    <title>C.-Y. Lee | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/c.-y.-lee/</link>
+      <atom:link href="https://2yngskl.github.io/authors/c.-y.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>C.-Y. Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
-      <title>S. Kim</title>
-      <link>https://2yngskl.github.io/authors/s.-kim/</link>
+      <title>C.-Y. Lee</title>
+      <link>https://2yngskl.github.io/authors/c.-y.-lee/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://2yngskl.github.io/working/recalibration/</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://2yngskl.github.io/working/recalibration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MS1-Level Proteome Quantification Platform Allowing Maximally Increased Multiplexity for SILAC and In Vitro Chemical Labeling</title>
-      <link>https://2yngskl.github.io/publication/proteome-quant/</link>
-      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/publication/proteome-quant/</guid>
       <description></description>
     </item>
     
