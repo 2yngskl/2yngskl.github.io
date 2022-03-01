@@ -5,12 +5,20 @@
     <link>https://2yngskl.github.io/publication_types/2/</link>
       <atom:link href="https://2yngskl.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://2yngskl.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>The m6A(m)-independent role of FTO in regulating WNT signaling pathways</title>
+      <link>https://2yngskl.github.io/publication/22-fto-noncanon/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/22-fto-noncanon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Near-optimal variant calling</title>
