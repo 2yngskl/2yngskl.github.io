@@ -4,26 +4,61 @@
   
   <url>
     <loc>https://2yngskl.github.io/publication_types/2/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://2yngskl.github.io/authors/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://2yngskl.github.io/categories/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://2yngskl.github.io/publication/22-hcmv/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <loc>https://2yngskl.github.io/authors/j.-park-m.-kim-h.-yi-k.-baeg-y.-choi-y.-s.-lee-j.-lim-v-n.-kim%5C/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://2yngskl.github.io/categories/molecular-biology/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/publication_types/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/publication/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/tags/rna-modification/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/publication/23-short-tail/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/tags/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/publication/22-hcmv/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,27 +68,7 @@
   </url>
   
   <url>
-    <loc>https://2yngskl.github.io/publication_types/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://2yngskl.github.io/publication/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://2yngskl.github.io/authors/s.-lee-h.-kim-a.-hong-j.-song-s.-lee-m.-kim-s.-hwang-d.-jeong-j.-kim-a.-son-y.-s.-lee-v-n.-kim-j.-kim-h.-chang%5C-k.-ahn%5C/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://2yngskl.github.io/tags/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://2yngskl.github.io/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +109,6 @@
   
   <url>
     <loc>https://2yngskl.github.io/authors/h.-kim%5C/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://2yngskl.github.io/tags/rna-modification/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -393,7 +403,17 @@
   </url>
   
   <url>
-    <loc>https://2yngskl.github.io/working/submitted/</loc>
+    <loc>https://2yngskl.github.io/categories/machine-learning/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/publication/20-nmd/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2yngskl.github.io/tags/probabilistic-modeling/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,12 +5,20 @@
     <link>https://2yngskl.github.io/</link>
       <atom:link href="https://2yngskl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Young-suk Lee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Young-suk Lee, PhD</copyright><lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Young-suk Lee, PhD</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>Young-suk Lee</title>
       <link>https://2yngskl.github.io/</link>
     </image>
+    
+    <item>
+      <title>Short poly (A) tails are protected from deadenylation by the LARP1–PABP complex</title>
+      <link>https://2yngskl.github.io/publication/23-short-tail/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/23-short-tail/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functional and molecular dissection of HCMV long non-coding RNAs</title>
@@ -94,9 +102,9 @@
     
     <item>
       <title>Nonparametric Deconvolution Models</title>
-      <link>https://2yngskl.github.io/working/submitted/</link>
+      <link>https://2yngskl.github.io/publication/20-nmd/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/working/submitted/</guid>
+      <guid>https://2yngskl.github.io/publication/20-nmd/</guid>
       <description></description>
     </item>
     

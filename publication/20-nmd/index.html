@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor">
+  <meta name="description" content="We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens&#39; votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://2yngskl.github.io/publication_types/2/">
+  <link rel="alternate" hreflang="en-us" href="https://2yngskl.github.io/publication/20-nmd/">
 
   
 
@@ -95,14 +95,12 @@
 
 
   
-  <link rel="alternate" href="/publication_types/2/index.xml" type="application/rss+xml" title="Young-suk Lee">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://2yngskl.github.io/publication_types/2/">
+  <link rel="canonical" href="https://2yngskl.github.io/publication/20-nmd/">
 
   
   
@@ -118,18 +116,63 @@
   <meta property="twitter:creator" content="@yngskl">
   
   <meta property="og:site_name" content="Young-suk Lee">
-  <meta property="og:url" content="https://2yngskl.github.io/publication_types/2/">
-  <meta property="og:title" content="2 | Young-suk Lee">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://2yngskl.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://2yngskl.github.io/publication/20-nmd/">
+  <meta property="og:title" content="Nonparametric Deconvolution Models | Young-suk Lee">
+  <meta property="og:description" content="We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens&#39; votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data."><meta property="og:image" content="https://2yngskl.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://2yngskl.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-03-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2020-01-24T22:43:11&#43;09:00">
+    
+    <meta property="article:modified_time" content="2020-03-17T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://2yngskl.github.io/publication/20-nmd/"
+  },
+  "headline": "Nonparametric Deconvolution Models",
+  
+  "datePublished": "2020-01-24T22:43:11+09:00",
+  "dateModified": "2020-03-17T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "A. Chaney"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Young-suk Lee",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://2yngskl.github.io/img/icon-512.png"
+    }
+  },
+  "description": "We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens' votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data."
+}
+</script>
+
+  
 
   
 
@@ -137,10 +180,13 @@
   
 
 
+  
 
 
 
-  <title>2 | Young-suk Lee</title>
+
+
+  <title>Nonparametric Deconvolution Models | Young-suk Lee</title>
 
 </head>
 
@@ -367,6 +413,113 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Nonparametric Deconvolution Models</h1>
+
+  
+
+  
+    
+
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span>
+        A. Chaney
+    </span>, <span>
+        A. Verma
+    </span>, <span>
+        <strong>Y. S. Lee</strong>
+    </span>, <span>
+        B. Engelhardt
+    </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    March 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/machine-learning/">Machine learning</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
   
 
 
@@ -380,103 +533,132 @@
 
 
 
-  
+
+
+
+
+
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>2</h1>
-
   
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2003.07718" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
-  <div>
-    <h2><a href="/publication/proteome-quant/">MS1-Level Proteome Quantification Platform Allowing Maximally Increased Multiplexity for SILAC and In Vitro Chemical Labeling</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-44/">A Computational Framework for Genome-wide Characterization of the Human Disease Landscape</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-49/">Molecular Basis for the Single-Nucleotide Precision of Primary microRNA Processing</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-45/">Interpretation of an individual functional genomics experiment guided by massive public data</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-50/">Mixed tailing by TENT4A and TENT4B shields mRNA from rapid deadenylation</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-52/">IFNgamma-Dependent Tissue-Immune Homeostasis Is Co-opted in the Tumor Microenvironment</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-46/">Tissue-aware data integration approach for the inference of pathway interactions in metazoan organisms</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-48/">Defining cell-type specificity at the transcriptional level in human disease</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/rn-47/">Ontology-aware classification of tissue and cell-type signals in gene expression profiles across platforms and technologies</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="/publication_types/2/">&laquo;</a></li>
+    blah
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens&rsquo; votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data.</p>
+    
+
     
     
-  </ul>
-</nav>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>arXiv</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
 
 
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/probabilistic-modeling/">Probabilistic modeling</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/a.-chaney/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
 </div>
 
       
