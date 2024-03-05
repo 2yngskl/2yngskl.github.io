@@ -5,12 +5,36 @@
     <link>https://2yngskl.github.io/publication_types/2/</link>
       <atom:link href="https://2yngskl.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Young-suk Lee, PhD</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://2yngskl.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Deadenylation kinetics of mixed poly (A) tails at single-nucleotide resolution</title>
+      <link>https://2yngskl.github.io/publication/24-kinetics/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/24-kinetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative polyadenylation determines the functional landscape of inverted Alu repeats</title>
+      <link>https://2yngskl.github.io/publication/24-iralu/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/24-iralu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterologous vaccination utilizing viral vector and protein platforms confers complete protection against SFTSV</title>
+      <link>https://2yngskl.github.io/publication/23-heterologous-vaccination/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/23-heterologous-vaccination/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Short poly (A) tails are protected from deadenylation by the LARP1–PABP complex</title>
@@ -29,14 +53,6 @@
     </item>
     
     <item>
-      <title>Mathematical models of deadenylation</title>
-      <link>https://2yngskl.github.io/working/modeling/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/working/modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The m6A(m)-independent role of FTO in regulating WNT signaling pathways</title>
       <link>https://2yngskl.github.io/publication/22-fto-noncanon/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
@@ -49,14 +65,6 @@
       <link>https://2yngskl.github.io/working/recalibration/</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://2yngskl.github.io/working/recalibration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deadenylation kinetics at single-nucleotide resolution</title>
-      <link>https://2yngskl.github.io/working/kinetics/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/working/kinetics/</guid>
       <description></description>
     </item>
     
@@ -161,6 +169,14 @@
       <link>https://2yngskl.github.io/publication/rn-47/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://2yngskl.github.io/publication/rn-47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packaging signal of SARS-CoV-2</title>
+      <link>https://2yngskl.github.io/working/packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/packaging/</guid>
       <description></description>
     </item>
     

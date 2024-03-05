@@ -5,7 +5,7 @@
     <link>https://2yngskl.github.io/authors/m.-kim/</link>
       <atom:link href="https://2yngskl.github.io/authors/m.-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Kim</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>M. Kim</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Mathematical models of deadenylation</title>
-      <link>https://2yngskl.github.io/working/modeling/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/working/modeling/</guid>
+      <title>Short poly (A) tails are protected from deadenylation by the LARP1–PABP complex</title>
+      <link>https://2yngskl.github.io/publication/23-short-tail/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/23-short-tail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional and molecular dissection of HCMV long non-coding RNAs</title>
+      <link>https://2yngskl.github.io/publication/22-hcmv/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/22-hcmv/</guid>
       <description></description>
     </item>
     

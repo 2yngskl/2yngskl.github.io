@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Lim J** | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/lim-j/</link>
+      <atom:link href="https://2yngskl.github.io/authors/lim-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Lim J**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>**Lim J**</title>
+      <link>https://2yngskl.github.io/authors/lim-j/</link>
+    </image>
+    
+    <item>
+      <title>Mathematical Modeling of mRNA Poly (A) Tail Shortening Process</title>
+      <link>https://2yngskl.github.io/publication/23-modeling/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/23-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

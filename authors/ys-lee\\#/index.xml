@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**YS Lee**\*\# | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/ys-lee%5C%5C#/</link>
+      <atom:link href="https://2yngskl.github.io/authors/ys-lee%5C%5C#/index.xml" rel="self" type="application/rss+xml" />
+    <description>**YS Lee**\*\#</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>**YS Lee**\*\#</title>
+      <link>https://2yngskl.github.io/authors/ys-lee%5C%5C#/</link>
+    </image>
+    
+    <item>
+      <title>Near-optimal variant calling by pseudo-database construction</title>
+      <link>https://2yngskl.github.io/working/recalibration/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/recalibration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

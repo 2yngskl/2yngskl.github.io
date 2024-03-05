@@ -5,20 +5,12 @@
     <link>https://2yngskl.github.io/working/</link>
       <atom:link href="https://2yngskl.github.io/working/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>Working Projects</title>
       <link>https://2yngskl.github.io/working/</link>
     </image>
-    
-    <item>
-      <title>Mathematical models of deadenylation</title>
-      <link>https://2yngskl.github.io/working/modeling/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/working/modeling/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Near-optimal variant calling by pseudo-database construction</title>
@@ -29,10 +21,10 @@
     </item>
     
     <item>
-      <title>Deadenylation kinetics at single-nucleotide resolution</title>
-      <link>https://2yngskl.github.io/working/kinetics/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/working/kinetics/</guid>
+      <title>Packaging signal of SARS-CoV-2</title>
+      <link>https://2yngskl.github.io/working/packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/packaging/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://2yngskl.github.io/tags/rna-modification/</link>
       <atom:link href="https://2yngskl.github.io/tags/rna-modification/index.xml" rel="self" type="application/rss+xml" />
     <description>RNA modification</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Young-suk Lee, PhD</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>RNA modification</title>
       <link>https://2yngskl.github.io/tags/rna-modification/</link>
     </image>
+    
+    <item>
+      <title>Deadenylation kinetics of mixed poly (A) tails at single-nucleotide resolution</title>
+      <link>https://2yngskl.github.io/publication/24-kinetics/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/24-kinetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Modeling of mRNA Poly (A) Tail Shortening Process</title>
+      <link>https://2yngskl.github.io/publication/23-modeling/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/23-modeling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Short poly (A) tails are protected from deadenylation by the LARP1–PABP complex</title>

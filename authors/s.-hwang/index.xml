@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Hwang | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/s.-hwang/</link>
+      <atom:link href="https://2yngskl.github.io/authors/s.-hwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Hwang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>S. Hwang</title>
+      <link>https://2yngskl.github.io/authors/s.-hwang/</link>
+    </image>
+    
+    <item>
+      <title>Functional and molecular dissection of HCMV long non-coding RNAs</title>
+      <link>https://2yngskl.github.io/publication/22-hcmv/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/22-hcmv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

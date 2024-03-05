@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lim C | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/lim-c/</link>
+      <atom:link href="https://2yngskl.github.io/authors/lim-c/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lim C</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>Lim C</title>
+      <link>https://2yngskl.github.io/authors/lim-c/</link>
+    </image>
+    
+    <item>
+      <title>Alternative polyadenylation determines the functional landscape of inverted Alu repeats</title>
+      <link>https://2yngskl.github.io/publication/24-iralu/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/24-iralu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

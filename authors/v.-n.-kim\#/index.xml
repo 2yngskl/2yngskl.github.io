@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. N. Kim\# | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/v.-n.-kim%5C#/</link>
+      <atom:link href="https://2yngskl.github.io/authors/v.-n.-kim%5C#/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. N. Kim\#</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>V. N. Kim\#</title>
+      <link>https://2yngskl.github.io/authors/v.-n.-kim%5C#/</link>
+    </image>
+    
+    <item>
+      <title>The SARS-CoV-2 RNA interactome</title>
+      <link>https://2yngskl.github.io/publication/21-sars2-interactome/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/21-sars2-interactome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA demethylation by FTO stabilizes the FOXJ1 mRNA for proper motile ciliogenesis</title>
+      <link>https://2yngskl.github.io/publication/21-fto-cilio/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/21-fto-cilio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viral hijacking of the TENT4–ZCCHC14 complex protects viral RNAs via mixed tailing</title>
+      <link>https://2yngskl.github.io/publication/viral-mixed-tailing/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/viral-mixed-tailing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS1-Level Proteome Quantification Platform Allowing Maximally Increased Multiplexity for SILAC and In Vitro Chemical Labeling</title>
+      <link>https://2yngskl.github.io/publication/proteome-quant/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/proteome-quant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Basis for the Single-Nucleotide Precision of Primary microRNA Processing</title>
+      <link>https://2yngskl.github.io/publication/rn-49/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed tailing by TENT4A and TENT4B shields mRNA from rapid deadenylation</title>
+      <link>https://2yngskl.github.io/publication/rn-50/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/rn-50/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

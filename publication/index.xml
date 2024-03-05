@@ -5,12 +5,44 @@
     <link>https://2yngskl.github.io/publication/</link>
       <atom:link href="https://2yngskl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Young-suk Lee, PhD</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://2yngskl.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Deadenylation kinetics of mixed poly (A) tails at single-nucleotide resolution</title>
+      <link>https://2yngskl.github.io/publication/24-kinetics/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/24-kinetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative polyadenylation determines the functional landscape of inverted Alu repeats</title>
+      <link>https://2yngskl.github.io/publication/24-iralu/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/24-iralu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Modeling of mRNA Poly (A) Tail Shortening Process</title>
+      <link>https://2yngskl.github.io/publication/23-modeling/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/23-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterologous vaccination utilizing viral vector and protein platforms confers complete protection against SFTSV</title>
+      <link>https://2yngskl.github.io/publication/23-heterologous-vaccination/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/publication/23-heterologous-vaccination/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Short poly (A) tails are protected from deadenylation by the LARP1–PABP complex</title>
