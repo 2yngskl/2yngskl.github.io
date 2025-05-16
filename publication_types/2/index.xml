@@ -5,7 +5,7 @@
     <link>https://2yngskl.github.io/publication_types/2/</link>
       <atom:link href="https://2yngskl.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Young-suk Lee, PhD</copyright><lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://2yngskl.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -57,14 +57,6 @@
       <link>https://2yngskl.github.io/publication/22-fto-noncanon/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://2yngskl.github.io/publication/22-fto-noncanon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Near-optimal variant calling by pseudo-database construction</title>
-      <link>https://2yngskl.github.io/working/recalibration/</link>
-      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://2yngskl.github.io/working/recalibration/</guid>
       <description></description>
     </item>
     
@@ -169,6 +161,22 @@
       <link>https://2yngskl.github.io/publication/rn-47/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://2yngskl.github.io/publication/rn-47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing 5′ UTR sequences improves the capacity of mRNA therapeutics in preclinical models of aging and obesity</title>
+      <link>https://2yngskl.github.io/working/5utr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/5utr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-optimal variant calling by pseudo-database construction</title>
+      <link>https://2yngskl.github.io/working/recalibration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/recalibration/</guid>
       <description></description>
     </item>
     

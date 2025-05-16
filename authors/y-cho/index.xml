@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y Cho | Young-suk Lee</title>
+    <link>https://2yngskl.github.io/authors/y-cho/</link>
+      <atom:link href="https://2yngskl.github.io/authors/y-cho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y Cho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Young-suk Lee, PhD</copyright>
+    <image>
+      <url>https://2yngskl.github.io/img/icon-192.png</url>
+      <title>Y Cho</title>
+      <link>https://2yngskl.github.io/authors/y-cho/</link>
+    </image>
+    
+    <item>
+      <title>Designing 5′ UTR sequences improves the capacity of mRNA therapeutics in preclinical models of aging and obesity</title>
+      <link>https://2yngskl.github.io/working/5utr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2yngskl.github.io/working/5utr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
